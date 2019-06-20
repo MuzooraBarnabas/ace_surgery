@@ -8364,7 +8364,7 @@ h1, h2, h3, h4, h5,
         text-align: center;
         height: 750px; } }
     .hero-wrap .slider-text .one-third {
-      width: 60%;
+      width: 80%;
       position: relative;
       z-index: -1; }
       .hero-wrap .slider-text .one-third .overlay {
@@ -8429,7 +8429,7 @@ h1, h2, h3, h4, h5,
       letter-spacing: 4px;
       text-transform: uppercase;
       display: inline-block;
-      color: #6927ff; }
+      color: #ffc107; }
     .hero-wrap .slider-text .text {
       position: relative;
       z-index: 1; }
